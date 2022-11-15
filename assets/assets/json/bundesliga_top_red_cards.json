@@ -1,0 +1,1915 @@
+{
+    "get": "players/topredcards",
+    "parameters": {
+      "league": "78",
+      "season": "2022"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+      "current": 0,
+      "total": 1
+    },
+    "response": [
+      {
+        "player": {
+          "id": 24797,
+          "name": "D. Drexler",
+          "firstname": "Dominick",
+          "lastname": "Drexler",
+          "age": 32,
+          "birth": {
+            "date": "1990-05-26",
+            "place": "Bonn",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "183 cm",
+          "weight": "71 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/24797.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 174,
+              "name": "FC Schalke 04",
+              "logo": "https://media.api-sports.io/football/teams/174.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 5,
+              "lineups": 5,
+              "minutes": 328,
+              "number": null,
+              "position": "Midfielder",
+              "rating": "6.500000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 3,
+              "bench": 0
+            },
+            "shots": {
+              "total": 3,
+              "on": 1
+            },
+            "goals": {
+              "total": 1,
+              "conceded": 0,
+              "assists": 1,
+              "saves": null
+            },
+            "passes": {
+              "total": 88,
+              "key": 6,
+              "accuracy": 12
+            },
+            "tackles": {
+              "total": 5,
+              "blocks": 1,
+              "interceptions": 1
+            },
+            "duels": {
+              "total": 55,
+              "won": 23
+            },
+            "dribbles": {
+              "attempts": 7,
+              "success": 3,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 10,
+              "committed": 10
+            },
+            "cards": {
+              "yellow": 1,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 25913,
+          "name": "Alexander Hack",
+          "firstname": "Alexander",
+          "lastname": "Hack",
+          "age": 29,
+          "birth": {
+            "date": "1993-09-08",
+            "place": "Memmingen",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "193 cm",
+          "weight": "88 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/25913.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 164,
+              "name": "FSV Mainz 05",
+              "logo": "https://media.api-sports.io/football/teams/164.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 6,
+              "lineups": 6,
+              "minutes": 447,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.683333",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 1,
+              "bench": 0
+            },
+            "shots": {
+              "total": 1,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 260,
+              "key": 1,
+              "accuracy": 33
+            },
+            "tackles": {
+              "total": 11,
+              "blocks": 2,
+              "interceptions": 10
+            },
+            "duels": {
+              "total": 67,
+              "won": 40
+            },
+            "dribbles": {
+              "attempts": 1,
+              "success": 1,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 6,
+              "committed": 10
+            },
+            "cards": {
+              "yellow": 0,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 963,
+          "name": "L. Hrádecký",
+          "firstname": "Lukáš",
+          "lastname": "Hrádecký",
+          "age": 33,
+          "birth": {
+            "date": "1989-11-24",
+            "place": "Bratislava",
+            "country": "Slovakia"
+          },
+          "nationality": "Finland",
+          "height": "192 cm",
+          "weight": "83 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/963.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 6,
+              "lineups": 6,
+              "minutes": 540,
+              "number": null,
+              "position": "Goalkeeper",
+              "rating": "6.666666",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 0
+            },
+            "shots": {
+              "total": null,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 10,
+              "assists": null,
+              "saves": 18
+            },
+            "passes": {
+              "total": 178,
+              "key": null,
+              "accuracy": 19
+            },
+            "tackles": {
+              "total": null,
+              "blocks": null,
+              "interceptions": null
+            },
+            "duels": {
+              "total": null,
+              "won": null
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": null,
+              "committed": 1
+            },
+            "cards": {
+              "yellow": 0,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": 0
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 1096,
+          "name": "D. Szoboszlai",
+          "firstname": "Dominik",
+          "lastname": "Szoboszlai",
+          "age": 22,
+          "birth": {
+            "date": "2000-10-25",
+            "place": "Budapest",
+            "country": "Hungary"
+          },
+          "nationality": "Hungary",
+          "height": "186 cm",
+          "weight": "74 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/1096.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 173,
+              "name": "RB Leipzig",
+              "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 5,
+              "lineups": 3,
+              "minutes": 300,
+              "number": null,
+              "position": "Midfielder",
+              "rating": "6.980000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 2,
+              "out": 0,
+              "bench": 2
+            },
+            "shots": {
+              "total": 5,
+              "on": 4
+            },
+            "goals": {
+              "total": 1,
+              "conceded": 0,
+              "assists": 1,
+              "saves": null
+            },
+            "passes": {
+              "total": 137,
+              "key": 6,
+              "accuracy": 22
+            },
+            "tackles": {
+              "total": 5,
+              "blocks": null,
+              "interceptions": 6
+            },
+            "duels": {
+              "total": 33,
+              "won": 17
+            },
+            "dribbles": {
+              "attempts": 8,
+              "success": 6,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 6,
+              "committed": 4
+            },
+            "cards": {
+              "yellow": 0,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 38114,
+          "name": "K. Itakura",
+          "firstname": "Ko",
+          "lastname": "Itakura",
+          "age": 25,
+          "birth": {
+            "date": "1997-01-27",
+            "place": "Yokohama",
+            "country": "Japan"
+          },
+          "nationality": "Japan",
+          "height": "186 cm",
+          "weight": "75 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/38114.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 163,
+              "name": "Borussia Monchengladbach",
+              "logo": "https://media.api-sports.io/football/teams/163.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 5,
+              "lineups": 5,
+              "minutes": 413,
+              "number": null,
+              "position": "Defender",
+              "rating": "7.020000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 0
+            },
+            "shots": {
+              "total": 1,
+              "on": 1
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": 1,
+              "saves": null
+            },
+            "passes": {
+              "total": 338,
+              "key": 1,
+              "accuracy": 61
+            },
+            "tackles": {
+              "total": 2,
+              "blocks": 6,
+              "interceptions": 8
+            },
+            "duels": {
+              "total": 29,
+              "won": 16
+            },
+            "dribbles": {
+              "attempts": 2,
+              "success": 2,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 2,
+              "committed": 2
+            },
+            "cards": {
+              "yellow": 0,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 26342,
+          "name": "L. Pfeiffer",
+          "firstname": "Luca",
+          "lastname": "Pfeiffer",
+          "age": 26,
+          "birth": {
+            "date": "1996-08-20",
+            "place": "Bad Mergentheim",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "196 cm",
+          "weight": null,
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/26342.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 172,
+              "name": "VfB Stuttgart",
+              "logo": "https://media.api-sports.io/football/teams/172.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 3,
+              "lineups": 1,
+              "minutes": 84,
+              "number": null,
+              "position": "Attacker",
+              "rating": "6.366666",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 2,
+              "out": 0,
+              "bench": 3
+            },
+            "shots": {
+              "total": 1,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 27,
+              "key": 2,
+              "accuracy": 6
+            },
+            "tackles": {
+              "total": 1,
+              "blocks": null,
+              "interceptions": null
+            },
+            "duels": {
+              "total": 18,
+              "won": 8
+            },
+            "dribbles": {
+              "attempts": 2,
+              "success": 1,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 1,
+              "committed": 5
+            },
+            "cards": {
+              "yellow": 0,
+              "yellowred": 0,
+              "red": 1
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 53600,
+          "name": "F. Uremović",
+          "firstname": "Filip",
+          "lastname": "Uremović",
+          "age": 25,
+          "birth": {
+            "date": "1997-02-11",
+            "place": "Požega",
+            "country": "Croatia"
+          },
+          "nationality": "Croatia",
+          "height": "184 cm",
+          "weight": "81 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/53600.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 159,
+              "name": "Hertha Berlin",
+              "logo": "https://media.api-sports.io/football/teams/159.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 6,
+              "lineups": 6,
+              "minutes": 512,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.650000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 1,
+              "bench": 0
+            },
+            "shots": {
+              "total": 1,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 202,
+              "key": 1,
+              "accuracy": 27
+            },
+            "tackles": {
+              "total": 8,
+              "blocks": 5,
+              "interceptions": 13
+            },
+            "duels": {
+              "total": 54,
+              "won": 31
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 4,
+              "committed": 8
+            },
+            "cards": {
+              "yellow": 3,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 127817,
+          "name": "P. Hincapié",
+          "firstname": "Piero Martín",
+          "lastname": "Hincapié Reyna",
+          "age": 20,
+          "birth": {
+            "date": "2002-01-09",
+            "place": "Esmeraldas",
+            "country": "Ecuador"
+          },
+          "nationality": "Ecuador",
+          "height": "183 cm",
+          "weight": "66 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/127817.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 6,
+              "lineups": 5,
+              "minutes": 447,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.616666",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 1,
+              "out": 2,
+              "bench": 1
+            },
+            "shots": {
+              "total": 5,
+              "on": 1
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 215,
+              "key": 2,
+              "accuracy": 27
+            },
+            "tackles": {
+              "total": 10,
+              "blocks": 4,
+              "interceptions": 7
+            },
+            "duels": {
+              "total": 64,
+              "won": 37
+            },
+            "dribbles": {
+              "attempts": 8,
+              "success": 4,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 9,
+              "committed": 7
+            },
+            "cards": {
+              "yellow": 2,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 108474,
+          "name": "L. Kilian",
+          "firstname": "Luca Jannis",
+          "lastname": "Kilian",
+          "age": 23,
+          "birth": {
+            "date": "1999-09-01",
+            "place": "Dortmund",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "192 cm",
+          "weight": "91 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/108474.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 192,
+              "name": "FC Koln",
+              "logo": "https://media.api-sports.io/football/teams/192.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 6,
+              "lineups": 6,
+              "minutes": 531,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.850000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 0
+            },
+            "shots": {
+              "total": 3,
+              "on": 1
+            },
+            "goals": {
+              "total": 1,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 354,
+              "key": 1,
+              "accuracy": 52
+            },
+            "tackles": {
+              "total": 12,
+              "blocks": 2,
+              "interceptions": 5
+            },
+            "duels": {
+              "total": 44,
+              "won": 23
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": null,
+              "committed": 4
+            },
+            "cards": {
+              "yellow": 2,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 530,
+          "name": "M. Bakker",
+          "firstname": "Mitchel",
+          "lastname": "Bakker",
+          "age": 22,
+          "birth": {
+            "date": "2000-06-20",
+            "place": "Purmerend",
+            "country": "Netherlands"
+          },
+          "nationality": "Netherlands",
+          "height": "185 cm",
+          "weight": "85 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/530.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 5,
+              "lineups": 2,
+              "minutes": 184,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.380000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 3,
+              "out": 1,
+              "bench": 4
+            },
+            "shots": {
+              "total": 3,
+              "on": 1
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 79,
+              "key": 2,
+              "accuracy": 12
+            },
+            "tackles": {
+              "total": 4,
+              "blocks": 1,
+              "interceptions": 2
+            },
+            "duels": {
+              "total": 20,
+              "won": 9
+            },
+            "dribbles": {
+              "attempts": 4,
+              "success": 2,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 2,
+              "committed": 5
+            },
+            "cards": {
+              "yellow": 2,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 24868,
+          "name": "J. Vagnoman",
+          "firstname": "Josha Mamadou",
+          "lastname": "Karaboue Vagnoman",
+          "age": 22,
+          "birth": {
+            "date": "2000-12-11",
+            "place": "Hamburg",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "190 cm",
+          "weight": "90 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/24868.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 172,
+              "name": "VfB Stuttgart",
+              "logo": "https://media.api-sports.io/football/teams/172.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 5,
+              "lineups": 5,
+              "minutes": 402,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.600000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 2,
+              "bench": 0
+            },
+            "shots": {
+              "total": 4,
+              "on": 1
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 78,
+              "key": 5,
+              "accuracy": 12
+            },
+            "tackles": {
+              "total": 3,
+              "blocks": 2,
+              "interceptions": 5
+            },
+            "duels": {
+              "total": 31,
+              "won": 15
+            },
+            "dribbles": {
+              "attempts": 6,
+              "success": 3,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 2,
+              "committed": 5
+            },
+            "cards": {
+              "yellow": 1,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 711,
+          "name": "Stefan Posch",
+          "firstname": "Stefan",
+          "lastname": "Posch",
+          "age": 25,
+          "birth": {
+            "date": "1997-05-14",
+            "place": "Judenburg",
+            "country": "Austria"
+          },
+          "nationality": "Austria",
+          "height": "189 cm",
+          "weight": "82 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/711.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 167,
+              "name": "1899 Hoffenheim",
+              "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 1,
+              "lineups": 1,
+              "minutes": 19,
+              "number": null,
+              "position": "Defender",
+              "rating": "3.000000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 2
+            },
+            "shots": {
+              "total": null,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 12,
+              "key": null,
+              "accuracy": 8
+            },
+            "tackles": {
+              "total": null,
+              "blocks": null,
+              "interceptions": null
+            },
+            "duels": {
+              "total": 2,
+              "won": null
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": null,
+              "committed": 2
+            },
+            "cards": {
+              "yellow": 1,
+              "yellowred": 1,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 25011,
+          "name": "A. Pieper",
+          "firstname": "Amos",
+          "lastname": "Pieper",
+          "age": 24,
+          "birth": {
+            "date": "1998-01-17",
+            "place": "Lüdinghausen",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "192 cm",
+          "weight": "86 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/25011.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 162,
+              "name": "Werder Bremen",
+              "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 7,
+              "minutes": 573,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.871428",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 2,
+              "bench": 0
+            },
+            "shots": {
+              "total": null,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": 1,
+              "saves": null
+            },
+            "passes": {
+              "total": 302,
+              "key": 1,
+              "accuracy": 33
+            },
+            "tackles": {
+              "total": 15,
+              "blocks": 3,
+              "interceptions": 8
+            },
+            "duels": {
+              "total": 52,
+              "won": 37
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 3,
+              "committed": 8
+            },
+            "cards": {
+              "yellow": 5,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 98,
+          "name": "Benjamin Paa Kwesi Henrichs",
+          "firstname": "Benjamin Paa Kwesi",
+          "lastname": "Henrichs",
+          "age": 25,
+          "birth": {
+            "date": "1997-02-23",
+            "place": "Bocholt",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "183 cm",
+          "weight": "79 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/98.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 173,
+              "name": "RB Leipzig",
+              "logo": "https://media.api-sports.io/football/teams/173.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 6,
+              "minutes": 504,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.657142",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 1,
+              "out": 2,
+              "bench": 1
+            },
+            "shots": {
+              "total": 4,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": 1,
+              "saves": null
+            },
+            "passes": {
+              "total": 279,
+              "key": 4,
+              "accuracy": 27
+            },
+            "tackles": {
+              "total": 19,
+              "blocks": 1,
+              "interceptions": 9
+            },
+            "duels": {
+              "total": 60,
+              "won": 31
+            },
+            "dribbles": {
+              "attempts": 6,
+              "success": 2,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 6,
+              "committed": 11
+            },
+            "cards": {
+              "yellow": 4,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 957,
+          "name": "D. Sow",
+          "firstname": "Mohameth Djibril Ibrahima",
+          "lastname": "Sow",
+          "age": 25,
+          "birth": {
+            "date": "1997-02-06",
+            "place": "Zürich",
+            "country": "Switzerland"
+          },
+          "nationality": "Switzerland",
+          "height": "184 cm",
+          "weight": "76 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/957.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 169,
+              "name": "Eintracht Frankfurt",
+              "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 7,
+              "minutes": 630,
+              "number": null,
+              "position": "Midfielder",
+              "rating": "6.857142",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 0
+            },
+            "shots": {
+              "total": 2,
+              "on": 1
+            },
+            "goals": {
+              "total": 1,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 324,
+              "key": 5,
+              "accuracy": 39
+            },
+            "tackles": {
+              "total": 6,
+              "blocks": null,
+              "interceptions": 10
+            },
+            "duels": {
+              "total": 47,
+              "won": 25
+            },
+            "dribbles": {
+              "attempts": 3,
+              "success": 3,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 10,
+              "committed": 10
+            },
+            "cards": {
+              "yellow": 4,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 25290,
+          "name": "Jeffrey Gouweleeuw",
+          "firstname": "Jeffrey",
+          "lastname": "Gouweleeuw",
+          "age": 31,
+          "birth": {
+            "date": "1991-07-10",
+            "place": "Heemskerk",
+            "country": "Netherlands"
+          },
+          "nationality": "Netherlands",
+          "height": "188 cm",
+          "weight": "83 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/25290.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 170,
+              "name": "FC Augsburg",
+              "logo": "https://media.api-sports.io/football/teams/170.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 7,
+              "minutes": 630,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.700000",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 0,
+              "bench": 0
+            },
+            "shots": {
+              "total": 3,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 269,
+              "key": 3,
+              "accuracy": 26
+            },
+            "tackles": {
+              "total": 11,
+              "blocks": 5,
+              "interceptions": 12
+            },
+            "duels": {
+              "total": 63,
+              "won": 32
+            },
+            "dribbles": {
+              "attempts": 4,
+              "success": 2,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 1,
+              "committed": 4
+            },
+            "cards": {
+              "yellow": 4,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 25366,
+          "name": "Kevin John Ufuoma Akpoguma",
+          "firstname": "Kevin John",
+          "lastname": "Ufuoma Akpoguma",
+          "age": 27,
+          "birth": {
+            "date": "1995-04-19",
+            "place": "Neustadt an der Weinstraße",
+            "country": "Germany"
+          },
+          "nationality": "Nigeria",
+          "height": "192 cm",
+          "weight": "85 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/25366.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 167,
+              "name": "1899 Hoffenheim",
+              "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 5,
+              "minutes": 476,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.757142",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 2,
+              "out": 1,
+              "bench": 2
+            },
+            "shots": {
+              "total": 1,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 225,
+              "key": 1,
+              "accuracy": 24
+            },
+            "tackles": {
+              "total": 14,
+              "blocks": 4,
+              "interceptions": 9
+            },
+            "duels": {
+              "total": 57,
+              "won": 34
+            },
+            "dribbles": {
+              "attempts": 3,
+              "success": 1,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 5,
+              "committed": 8
+            },
+            "cards": {
+              "yellow": 3,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 25144,
+          "name": "M. Bauer",
+          "firstname": "Maximilian",
+          "lastname": "Bauer",
+          "age": 22,
+          "birth": {
+            "date": "2000-02-09",
+            "place": null,
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "189 cm",
+          "weight": "84 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/25144.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 170,
+              "name": "FC Augsburg",
+              "logo": "https://media.api-sports.io/football/teams/170.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 6,
+              "minutes": 542,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.771428",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 1,
+              "out": 0,
+              "bench": 1
+            },
+            "shots": {
+              "total": 1,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 210,
+              "key": 3,
+              "accuracy": 22
+            },
+            "tackles": {
+              "total": 10,
+              "blocks": 2,
+              "interceptions": 10
+            },
+            "duels": {
+              "total": 61,
+              "won": 43
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 9,
+              "committed": 4
+            },
+            "cards": {
+              "yellow": 3,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 713,
+          "name": "Kevin Vogt",
+          "firstname": "Kevin",
+          "lastname": "Vogt",
+          "age": 31,
+          "birth": {
+            "date": "1991-09-23",
+            "place": "Witten",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "194 cm",
+          "weight": "87 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/713.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 167,
+              "name": "1899 Hoffenheim",
+              "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 7,
+              "minutes": 591,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.957142",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 1,
+              "bench": 0
+            },
+            "shots": {
+              "total": null,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 409,
+              "key": 1,
+              "accuracy": 53
+            },
+            "tackles": {
+              "total": 4,
+              "blocks": 4,
+              "interceptions": 10
+            },
+            "duels": {
+              "total": 19,
+              "won": 10
+            },
+            "dribbles": {
+              "attempts": null,
+              "success": null,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 4,
+              "committed": 5
+            },
+            "cards": {
+              "yellow": 3,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      },
+      {
+        "player": {
+          "id": 972,
+          "name": "Jonathan Glao Tah",
+          "firstname": "Jonathan",
+          "lastname": "Glao Tah",
+          "age": 26,
+          "birth": {
+            "date": "1996-02-11",
+            "place": "Hamburg",
+            "country": "Germany"
+          },
+          "nationality": "Germany",
+          "height": "195 cm",
+          "weight": "98 kg",
+          "injured": false,
+          "photo": "https://media.api-sports.io/football/players/972.png"
+        },
+        "statistics": [
+          {
+            "team": {
+              "id": 168,
+              "name": "Bayer Leverkusen",
+              "logo": "https://media.api-sports.io/football/teams/168.png"
+            },
+            "league": {
+              "id": 78,
+              "name": "Bundesliga",
+              "country": "Germany",
+              "logo": "https://media.api-sports.io/football/leagues/78.png",
+              "flag": "https://media.api-sports.io/flags/de.svg",
+              "season": 2022
+            },
+            "games": {
+              "appearences": 7,
+              "lineups": 7,
+              "minutes": 600,
+              "number": null,
+              "position": "Defender",
+              "rating": "6.757142",
+              "captain": false
+            },
+            "substitutes": {
+              "in": 0,
+              "out": 1,
+              "bench": 0
+            },
+            "shots": {
+              "total": 2,
+              "on": null
+            },
+            "goals": {
+              "total": 0,
+              "conceded": 0,
+              "assists": null,
+              "saves": null
+            },
+            "passes": {
+              "total": 341,
+              "key": 2,
+              "accuracy": 42
+            },
+            "tackles": {
+              "total": 7,
+              "blocks": 4,
+              "interceptions": 12
+            },
+            "duels": {
+              "total": 46,
+              "won": 24
+            },
+            "dribbles": {
+              "attempts": 2,
+              "success": 2,
+              "past": null
+            },
+            "fouls": {
+              "drawn": 2,
+              "committed": 5
+            },
+            "cards": {
+              "yellow": 3,
+              "yellowred": 0,
+              "red": 0
+            },
+            "penalty": {
+              "won": null,
+              "commited": null,
+              "scored": 0,
+              "missed": 0,
+              "saved": null
+            }
+          }
+        ]
+      }
+    ]
+  }

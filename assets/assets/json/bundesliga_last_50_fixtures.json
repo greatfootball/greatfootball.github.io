@@ -1,0 +1,3415 @@
+{
+    "get": "fixtures",
+    "parameters": {
+      "league": "78",
+      "last": "50"
+    },
+    "errors": [],
+    "results": 50,
+    "paging": {
+      "current": 1,
+      "total": 1
+    },
+    "response": [
+      {
+        "fixture": {
+          "id": 871235,
+          "referee": "Matthias Jollenbeck, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T16:30:00+00:00",
+          "timestamp": 1664641800,
+          "periods": {
+            "first": 1664641800,
+            "second": 1664645400
+          },
+          "venue": {
+            "id": 755,
+            "name": "wohninvest WESERSTADION",
+            "city": "Bremen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": true
+          },
+          "away": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 4,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871230,
+          "referee": "Harm Osmers, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T13:30:00+00:00",
+          "timestamp": 1664631000,
+          "periods": {
+            "first": 1664631000,
+            "second": 1664634600
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          },
+          "away": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871229,
+          "referee": "Sven Jablonski, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T13:30:00+00:00",
+          "timestamp": 1664631000,
+          "periods": {
+            "first": 1664631000,
+            "second": 1664634600
+          },
+          "venue": {
+            "id": 12717,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg im Breisgau"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": true
+          },
+          "away": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871228,
+          "referee": "Florian Badstubner, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T13:30:00+00:00",
+          "timestamp": 1664631000,
+          "periods": {
+            "first": 1664631000,
+            "second": 1664634600
+          },
+          "venue": {
+            "id": 738,
+            "name": "Red Bull Arena",
+            "city": "Leipzig"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": true
+          },
+          "away": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871231,
+          "referee": "Sascha Stegemann, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T13:30:00+00:00",
+          "timestamp": 1664631000,
+          "periods": {
+            "first": 1664631000,
+            "second": 1664634600
+          },
+          "venue": {
+            "id": 10491,
+            "name": "Deutsche Bank Park",
+            "city": "Frankfurt am Main"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": true
+          },
+          "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871232,
+          "referee": "Felix Zwayer, Germany",
+          "timezone": "UTC",
+          "date": "2022-10-01T13:30:00+00:00",
+          "timestamp": 1664631000,
+          "periods": {
+            "first": 1664631000,
+            "second": 1664634600
+          },
+          "venue": {
+            "id": 752,
+            "name": "VOLKSWAGEN ARENA",
+            "city": "Wolfsburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png",
+            "winner": true
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871227,
+          "referee": "Tobias Stieler, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-30T18:30:00+00:00",
+          "timestamp": 1664562600,
+          "periods": {
+            "first": 1664562600,
+            "second": 1664566200
+          },
+          "venue": {
+            "id": 700,
+            "name": "Allianz Arena",
+            "city": "München"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": true
+          },
+          "away": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871224,
+          "referee": "Deniz Aytekin, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-18T17:30:00+00:00",
+          "timestamp": 1663522200,
+          "periods": {
+            "first": 1663522200,
+            "second": 1663525800
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871223,
+          "referee": "Bastian Dankert, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-18T15:30:00+00:00",
+          "timestamp": 1663515000,
+          "periods": {
+            "first": 1663515000,
+            "second": 1663518600
+          },
+          "venue": {
+            "id": 751,
+            "name": "Vonovia Ruhrstadion",
+            "city": "Bochum"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871221,
+          "referee": "Robert Schroder, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-18T13:30:00+00:00",
+          "timestamp": 1663507800,
+          "periods": {
+            "first": 1663507800,
+            "second": 1663511400
+          },
+          "venue": {
+            "id": 748,
+            "name": "Stadion An der Alten Försterei",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": true
+          },
+          "away": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871219,
+          "referee": "Patrick Ittrich, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-17T16:30:00+00:00",
+          "timestamp": 1663432200,
+          "periods": {
+            "first": 1663432200,
+            "second": 1663435800
+          },
+          "venue": {
+            "id": 703,
+            "name": "Stadion im BORUSSIA-PARK",
+            "city": "Mönchengladbach"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png",
+            "winner": true
+          },
+          "away": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871220,
+          "referee": "Tobias Welz, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-17T13:30:00+00:00",
+          "timestamp": 1663421400,
+          "periods": {
+            "first": 1663421400,
+            "second": 1663425000
+          },
+          "venue": {
+            "id": 699,
+            "name": "BayArena",
+            "city": "Leverkusen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": null
+          },
+          "away": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871225,
+          "referee": "Daniel Siebert, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-17T13:30:00+00:00",
+          "timestamp": 1663421400,
+          "periods": {
+            "first": 1663421400,
+            "second": 1663425000
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871218,
+          "referee": "Marco Fritz, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-17T13:30:00+00:00",
+          "timestamp": 1663421400,
+          "periods": {
+            "first": 1663421400,
+            "second": 1663425000
+          },
+          "venue": {
+            "id": 698,
+            "name": "WWK Arena",
+            "city": "Augsburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png",
+            "winner": true
+          },
+          "away": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871226,
+          "referee": "Felix Brych, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-17T13:30:00+00:00",
+          "timestamp": 1663421400,
+          "periods": {
+            "first": 1663421400,
+            "second": 1663425000
+          },
+          "venue": {
+            "id": 702,
+            "name": "Signal-Iduna-Park",
+            "city": "Dortmund"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": true
+          },
+          "away": {
+            "id": 174,
+            "name": "FC Schalke 04",
+            "logo": "https://media.api-sports.io/football/teams/174.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871222,
+          "referee": "Frank Willenborg, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-16T18:30:00+00:00",
+          "timestamp": 1663353000,
+          "periods": {
+            "first": 1663353000,
+            "second": 1663356600
+          },
+          "venue": {
+            "id": 11899,
+            "name": "MEWA ARENA",
+            "city": "Mainz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": null
+          },
+          "away": {
+            "id": 159,
+            "name": "Hertha Berlin",
+            "logo": "https://media.api-sports.io/football/teams/159.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871211,
+          "referee": "Tobias Stieler, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-11T15:30:00+00:00",
+          "timestamp": 1662910200,
+          "periods": {
+            "first": 1662910200,
+            "second": 1662913800
+          },
+          "venue": {
+            "id": 12717,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg im Breisgau"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": null
+          },
+          "away": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871212,
+          "referee": "Benjamin Cortus, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-11T13:30:00+00:00",
+          "timestamp": 1662903000,
+          "periods": {
+            "first": 1662903000,
+            "second": 1662906600
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871216,
+          "referee": "Felix Zwayer, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T16:30:00+00:00",
+          "timestamp": 1662827400,
+          "periods": {
+            "first": 1662827400,
+            "second": 1662831000
+          },
+          "venue": {
+            "id": 741,
+            "name": "VELTINS-Arena",
+            "city": "Gelsenkirchen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 174,
+            "name": "FC Schalke 04",
+            "logo": "https://media.api-sports.io/football/teams/174.png",
+            "winner": true
+          },
+          "away": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871210,
+          "referee": "Sven Jablonski, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T13:30:00+00:00",
+          "timestamp": 1662816600,
+          "periods": {
+            "first": 1662816600,
+            "second": 1662820200
+          },
+          "venue": {
+            "id": 738,
+            "name": "Red Bull Arena",
+            "city": "Leipzig"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": true
+          },
+          "away": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871214,
+          "referee": "Tobias Reichel, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T13:30:00+00:00",
+          "timestamp": 1662816600,
+          "periods": {
+            "first": 1662816600,
+            "second": 1662820200
+          },
+          "venue": {
+            "id": 10491,
+            "name": "Deutsche Bank Park",
+            "city": "Frankfurt am Main"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": false
+          },
+          "away": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871213,
+          "referee": "Daniel Schlager, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T13:30:00+00:00",
+          "timestamp": 1662816600,
+          "periods": {
+            "first": 1662816600,
+            "second": 1662820200
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871209,
+          "referee": "Christian Dingert, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T13:30:00+00:00",
+          "timestamp": 1662816600,
+          "periods": {
+            "first": 1662816600,
+            "second": 1662820200
+          },
+          "venue": {
+            "id": 700,
+            "name": "Allianz Arena",
+            "city": "München"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871215,
+          "referee": "Benjamin Brand, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-10T13:30:00+00:00",
+          "timestamp": 1662816600,
+          "periods": {
+            "first": 1662816600,
+            "second": 1662820200
+          },
+          "venue": {
+            "id": 694,
+            "name": "Olympiastadion Berlin",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 159,
+            "name": "Hertha Berlin",
+            "logo": "https://media.api-sports.io/football/teams/159.png",
+            "winner": null
+          },
+          "away": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871217,
+          "referee": "Martin Petersen, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-09T18:30:00+00:00",
+          "timestamp": 1662748200,
+          "periods": {
+            "first": 1662748200,
+            "second": 1662751800
+          },
+          "venue": {
+            "id": 755,
+            "name": "wohninvest WESERSTADION",
+            "city": "Bremen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 6"
+        },
+        "teams": {
+          "home": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": false
+          },
+          "away": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871203,
+          "referee": "Deniz Aytekin, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-04T15:30:00+00:00",
+          "timestamp": 1662305400,
+          "periods": {
+            "first": 1662305400,
+            "second": 1662309000
+          },
+          "venue": {
+            "id": 703,
+            "name": "Stadion im BORUSSIA-PARK",
+            "city": "Mönchengladbach"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png",
+            "winner": false
+          },
+          "away": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871207,
+          "referee": "Harm Osmers, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-04T13:30:00+00:00",
+          "timestamp": 1662298200,
+          "periods": {
+            "first": 1662298200,
+            "second": 1662301800
+          },
+          "venue": {
+            "id": 698,
+            "name": "WWK Arena",
+            "city": "Augsburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png",
+            "winner": false
+          },
+          "away": {
+            "id": 159,
+            "name": "Hertha Berlin",
+            "logo": "https://media.api-sports.io/football/teams/159.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871204,
+          "referee": "Felix Brych, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T16:30:00+00:00",
+          "timestamp": 1662222600,
+          "periods": {
+            "first": 1662222600,
+            "second": 1662226200
+          },
+          "venue": {
+            "id": 10491,
+            "name": "Deutsche Bank Park",
+            "city": "Frankfurt am Main"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": true
+          },
+          "away": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871201,
+          "referee": "Sascha Stegemann, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T13:30:00+00:00",
+          "timestamp": 1662211800,
+          "periods": {
+            "first": 1662211800,
+            "second": 1662215400
+          },
+          "venue": {
+            "id": 699,
+            "name": "BayArena",
+            "city": "Leverkusen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": false
+          },
+          "away": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871206,
+          "referee": "Robert Schroder, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T13:30:00+00:00",
+          "timestamp": 1662211800,
+          "periods": {
+            "first": 1662211800,
+            "second": 1662215400
+          },
+          "venue": {
+            "id": 751,
+            "name": "Vonovia Ruhrstadion",
+            "city": "Bochum"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": false
+          },
+          "away": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871202,
+          "referee": "Frank Willenborg, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T13:30:00+00:00",
+          "timestamp": 1662211800,
+          "periods": {
+            "first": 1662211800,
+            "second": 1662215400
+          },
+          "venue": {
+            "id": 748,
+            "name": "Stadion An der Alten Försterei",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": null
+          },
+          "away": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871208,
+          "referee": "Florian Badstubner, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T13:30:00+00:00",
+          "timestamp": 1662211800,
+          "periods": {
+            "first": 1662211800,
+            "second": 1662215400
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          },
+          "away": {
+            "id": 174,
+            "name": "FC Schalke 04",
+            "logo": "https://media.api-sports.io/football/teams/174.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871205,
+          "referee": "Matthias Jollenbeck, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-03T13:30:00+00:00",
+          "timestamp": 1662211800,
+          "periods": {
+            "first": 1662211800,
+            "second": 1662215400
+          },
+          "venue": {
+            "id": 752,
+            "name": "VOLKSWAGEN ARENA",
+            "city": "Wolfsburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871200,
+          "referee": "Daniel Siebert, Germany",
+          "timezone": "UTC",
+          "date": "2022-09-02T18:30:00+00:00",
+          "timestamp": 1662143400,
+          "periods": {
+            "first": 1662143400,
+            "second": 1662147000
+          },
+          "venue": {
+            "id": 702,
+            "name": "Signal-Iduna-Park",
+            "city": "Dortmund"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": true
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871199,
+          "referee": "Patrick Ittrich, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-28T15:30:00+00:00",
+          "timestamp": 1661700600,
+          "periods": {
+            "first": 1661700600,
+            "second": 1661704200
+          },
+          "venue": {
+            "id": 755,
+            "name": "wohninvest WESERSTADION",
+            "city": "Bremen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": false
+          },
+          "away": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871194,
+          "referee": "Harm Osmers, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-28T13:30:00+00:00",
+          "timestamp": 1661693400,
+          "periods": {
+            "first": 1661693400,
+            "second": 1661697000
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871191,
+          "referee": "Daniel Schlager, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T16:30:00+00:00",
+          "timestamp": 1661617800,
+          "periods": {
+            "first": 1661617800,
+            "second": 1661621400
+          },
+          "venue": {
+            "id": 700,
+            "name": "Allianz Arena",
+            "city": "München"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": null
+          },
+          "away": {
+            "id": 163,
+            "name": "Borussia Monchengladbach",
+            "logo": "https://media.api-sports.io/football/teams/163.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871197,
+          "referee": "Tobias Stieler, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T13:30:00+00:00",
+          "timestamp": 1661607000,
+          "periods": {
+            "first": 1661607000,
+            "second": 1661610600
+          },
+          "venue": {
+            "id": 694,
+            "name": "Olympiastadion Berlin",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 159,
+            "name": "Hertha Berlin",
+            "logo": "https://media.api-sports.io/football/teams/159.png",
+            "winner": false
+          },
+          "away": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871198,
+          "referee": "Robert Hartmann, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T13:30:00+00:00",
+          "timestamp": 1661607000,
+          "periods": {
+            "first": 1661607000,
+            "second": 1661610600
+          },
+          "venue": {
+            "id": 741,
+            "name": "VELTINS-Arena",
+            "city": "Gelsenkirchen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 174,
+            "name": "FC Schalke 04",
+            "logo": "https://media.api-sports.io/football/teams/174.png",
+            "winner": false
+          },
+          "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 6
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 6
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871196,
+          "referee": "Tobias Welz, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T13:30:00+00:00",
+          "timestamp": 1661607000,
+          "periods": {
+            "first": 1661607000,
+            "second": 1661610600
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871192,
+          "referee": "Bastian Dankert, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T13:30:00+00:00",
+          "timestamp": 1661607000,
+          "periods": {
+            "first": 1661607000,
+            "second": 1661610600
+          },
+          "venue": {
+            "id": 738,
+            "name": "Red Bull Arena",
+            "city": "Leipzig"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": true
+          },
+          "away": {
+            "id": 161,
+            "name": "VfL Wolfsburg",
+            "logo": "https://media.api-sports.io/football/teams/161.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871195,
+          "referee": "Christian Dingert, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-27T13:30:00+00:00",
+          "timestamp": 1661607000,
+          "periods": {
+            "first": 1661607000,
+            "second": 1661610600
+          },
+          "venue": {
+            "id": 11899,
+            "name": "MEWA ARENA",
+            "city": "Mainz"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": false
+          },
+          "away": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871193,
+          "referee": "Marco Fritz, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-26T18:30:00+00:00",
+          "timestamp": 1661538600,
+          "periods": {
+            "first": 1661538600,
+            "second": 1661542200
+          },
+          "venue": {
+            "id": 12717,
+            "name": "Europa-Park Stadion",
+            "city": "Freiburg im Breisgau"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": true
+          },
+          "away": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871188,
+          "referee": "Daniel Siebert, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-21T15:30:00+00:00",
+          "timestamp": 1661095800,
+          "periods": {
+            "first": 1661095800,
+            "second": 1661099400
+          },
+          "venue": {
+            "id": 751,
+            "name": "Vonovia Ruhrstadion",
+            "city": "Bochum"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 176,
+            "name": "VfL BOCHUM",
+            "logo": "https://media.api-sports.io/football/teams/176.png",
+            "winner": false
+          },
+          "away": {
+            "id": 157,
+            "name": "Bayern Munich",
+            "logo": "https://media.api-sports.io/football/teams/157.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 7
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 4
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 7
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871186,
+          "referee": "Martin Petersen, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-21T13:30:00+00:00",
+          "timestamp": 1661088600,
+          "periods": {
+            "first": 1661088600,
+            "second": 1661092200
+          },
+          "venue": {
+            "id": 10491,
+            "name": "Deutsche Bank Park",
+            "city": "Frankfurt am Main"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 169,
+            "name": "Eintracht Frankfurt",
+            "logo": "https://media.api-sports.io/football/teams/169.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "FC Koln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871184,
+          "referee": "Deniz Aytekin, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-20T16:30:00+00:00",
+          "timestamp": 1661013000,
+          "periods": {
+            "first": 1661013000,
+            "second": 1661016600
+          },
+          "venue": {
+            "id": 748,
+            "name": "Stadion An der Alten Försterei",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": true
+          },
+          "away": {
+            "id": 173,
+            "name": "RB Leipzig",
+            "logo": "https://media.api-sports.io/football/teams/173.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871183,
+          "referee": "Tobias Reichel, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-20T13:30:00+00:00",
+          "timestamp": 1661002200,
+          "periods": {
+            "first": 1661002200,
+            "second": 1661005800
+          },
+          "venue": {
+            "id": 699,
+            "name": "BayArena",
+            "city": "Leverkusen"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 168,
+            "name": "Bayer Leverkusen",
+            "logo": "https://media.api-sports.io/football/teams/168.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871190,
+          "referee": "Felix Brych, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-20T13:30:00+00:00",
+          "timestamp": 1661002200,
+          "periods": {
+            "first": 1661002200,
+            "second": 1661005800
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 160,
+            "name": "SC Freiburg",
+            "logo": "https://media.api-sports.io/football/teams/160.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871182,
+          "referee": "Florian Badstubner, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-20T13:30:00+00:00",
+          "timestamp": 1661002200,
+          "periods": {
+            "first": 1661002200,
+            "second": 1661005800
+          },
+          "venue": {
+            "id": 702,
+            "name": "Signal-Iduna-Park",
+            "city": "Dortmund"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 165,
+            "name": "Borussia Dortmund",
+            "logo": "https://media.api-sports.io/football/teams/165.png",
+            "winner": false
+          },
+          "away": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871189,
+          "referee": "Sascha Stegemann, Germany",
+          "timezone": "UTC",
+          "date": "2022-08-20T13:30:00+00:00",
+          "timestamp": 1661002200,
+          "periods": {
+            "first": 1661002200,
+            "second": 1661005800
+          },
+          "venue": {
+            "id": 698,
+            "name": "WWK Arena",
+            "city": "Augsburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 170,
+            "name": "FC Augsburg",
+            "logo": "https://media.api-sports.io/football/teams/170.png",
+            "winner": false
+          },
+          "away": {
+            "id": 164,
+            "name": "FSV Mainz 05",
+            "logo": "https://media.api-sports.io/football/teams/164.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  }

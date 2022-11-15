@@ -1,0 +1,1483 @@
+{
+    "get": "standings",
+    "parameters": {
+      "league": "2",
+      "season": "2022"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+      "current": 1,
+      "total": 1
+    },
+    "response": [
+      {
+        "league": {
+          "id": 2,
+          "name": "UEFA Champions League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/2.png",
+          "flag": null,
+          "season": 2022,
+          "standings": [
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 492,
+                  "name": "Napoli",
+                  "logo": "https://media.api-sports.io/football/teams/492.png"
+                },
+                "points": 6,
+                "goalsDiff": 6,
+                "group": "Group A",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 7,
+                    "against": 1
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 40,
+                  "name": "Liverpool",
+                  "logo": "https://media.api-sports.io/football/teams/40.png"
+                },
+                "points": 3,
+                "goalsDiff": -2,
+                "group": "Group A",
+                "form": "WL",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 3,
+                    "against": 5
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 4
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 194,
+                  "name": "Ajax",
+                  "logo": "https://media.api-sports.io/football/teams/194.png"
+                },
+                "points": 3,
+                "goalsDiff": 3,
+                "group": "Group A",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 5,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 257,
+                  "name": "Rangers",
+                  "logo": "https://media.api-sports.io/football/teams/257.png"
+                },
+                "points": 0,
+                "goalsDiff": -7,
+                "group": "Group A",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 0,
+                    "against": 7
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 4
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 569,
+                  "name": "Club Brugge KV",
+                  "logo": "https://media.api-sports.io/football/teams/569.png"
+                },
+                "points": 6,
+                "goalsDiff": 5,
+                "group": "Group B",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 0
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 168,
+                  "name": "Bayer Leverkusen",
+                  "logo": "https://media.api-sports.io/football/teams/168.png"
+                },
+                "points": 3,
+                "goalsDiff": 1,
+                "group": "Group B",
+                "form": "WL",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 530,
+                  "name": "Atletico Madrid",
+                  "logo": "https://media.api-sports.io/football/teams/530.png"
+                },
+                "points": 3,
+                "goalsDiff": -1,
+                "group": "Group B",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 2,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 212,
+                  "name": "FC Porto",
+                  "logo": "https://media.api-sports.io/football/teams/212.png"
+                },
+                "points": 0,
+                "goalsDiff": -5,
+                "group": "Group B",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 1,
+                    "against": 6
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 4
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 157,
+                  "name": "Bayern Munich",
+                  "logo": "https://media.api-sports.io/football/teams/157.png"
+                },
+                "points": 6,
+                "goalsDiff": 4,
+                "group": "Group C",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 0
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 529,
+                  "name": "Barcelona",
+                  "logo": "https://media.api-sports.io/football/teams/529.png"
+                },
+                "points": 3,
+                "goalsDiff": 2,
+                "group": "Group C",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 5,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 505,
+                  "name": "Inter",
+                  "logo": "https://media.api-sports.io/football/teams/505.png"
+                },
+                "points": 3,
+                "goalsDiff": 0,
+                "group": "Group C",
+                "form": "WL",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 2,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 567,
+                  "name": "Plzen",
+                  "logo": "https://media.api-sports.io/football/teams/567.png"
+                },
+                "points": 0,
+                "goalsDiff": -6,
+                "group": "Group C",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 1,
+                    "against": 7
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 5
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 228,
+                  "name": "Sporting CP",
+                  "logo": "https://media.api-sports.io/football/teams/228.png"
+                },
+                "points": 6,
+                "goalsDiff": 5,
+                "group": "Group D",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 0
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 47,
+                  "name": "Tottenham",
+                  "logo": "https://media.api-sports.io/football/teams/47.png"
+                },
+                "points": 3,
+                "goalsDiff": 0,
+                "group": "Group D",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 2,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 169,
+                  "name": "Eintracht Frankfurt",
+                  "logo": "https://media.api-sports.io/football/teams/169.png"
+                },
+                "points": 3,
+                "goalsDiff": -2,
+                "group": "Group D",
+                "form": "WL",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 81,
+                  "name": "Marseille",
+                  "logo": "https://media.api-sports.io/football/teams/81.png"
+                },
+                "points": 0,
+                "goalsDiff": -3,
+                "group": "Group D",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 489,
+                  "name": "AC Milan",
+                  "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "points": 4,
+                "goalsDiff": 2,
+                "group": "Group E",
+                "form": "WD",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 620,
+                  "name": "Dinamo Zagreb",
+                  "logo": "https://media.api-sports.io/football/teams/620.png"
+                },
+                "points": 3,
+                "goalsDiff": -1,
+                "group": "Group E",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 2,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 3
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 571,
+                  "name": "Red Bull Salzburg",
+                  "logo": "https://media.api-sports.io/football/teams/571.png"
+                },
+                "points": 2,
+                "goalsDiff": 0,
+                "group": "Group E",
+                "form": "DD",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 2,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 49,
+                  "name": "Chelsea",
+                  "logo": "https://media.api-sports.io/football/teams/49.png"
+                },
+                "points": 1,
+                "goalsDiff": -1,
+                "group": "Group E",
+                "form": "DL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 541,
+                  "name": "Real Madrid",
+                  "logo": "https://media.api-sports.io/football/teams/541.png"
+                },
+                "points": 6,
+                "goalsDiff": 5,
+                "group": "Group F",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 0
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 550,
+                  "name": "Shakhtar Donetsk",
+                  "logo": "https://media.api-sports.io/football/teams/550.png"
+                },
+                "points": 4,
+                "goalsDiff": 3,
+                "group": "Group F",
+                "form": "DW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 247,
+                  "name": "Celtic",
+                  "logo": "https://media.api-sports.io/football/teams/247.png"
+                },
+                "points": 1,
+                "goalsDiff": -3,
+                "group": "Group F",
+                "form": "DL",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 4
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 1,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 173,
+                  "name": "RB Leipzig",
+                  "logo": "https://media.api-sports.io/football/teams/173.png"
+                },
+                "points": 0,
+                "goalsDiff": -5,
+                "group": "Group F",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 1,
+                    "against": 6
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 4
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 50,
+                  "name": "Manchester City",
+                  "logo": "https://media.api-sports.io/football/teams/50.png"
+                },
+                "points": 6,
+                "goalsDiff": 5,
+                "group": "Group G",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 6,
+                    "against": 1
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 165,
+                  "name": "Borussia Dortmund",
+                  "logo": "https://media.api-sports.io/football/teams/165.png"
+                },
+                "points": 3,
+                "goalsDiff": 2,
+                "group": "Group G",
+                "form": "LW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 4,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 400,
+                  "name": "FC Copenhagen",
+                  "logo": "https://media.api-sports.io/football/teams/400.png"
+                },
+                "points": 1,
+                "goalsDiff": -3,
+                "group": "Group G",
+                "form": "DL",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 0,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 3
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 536,
+                  "name": "Sevilla",
+                  "logo": "https://media.api-sports.io/football/teams/536.png"
+                },
+                "points": 1,
+                "goalsDiff": -4,
+                "group": "Group G",
+                "form": "DL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 4
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 4
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 1,
+                  "lose": 0,
+                  "goals": {
+                    "for": 0,
+                    "against": 0
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ],
+            [
+              {
+                "rank": 1,
+                "team": {
+                  "id": 85,
+                  "name": "Paris Saint Germain",
+                  "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "points": 6,
+                "goalsDiff": 3,
+                "group": "Group H",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 5,
+                    "against": 2
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 3,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 2,
+                "team": {
+                  "id": 211,
+                  "name": "Benfica",
+                  "logo": "https://media.api-sports.io/football/teams/211.png"
+                },
+                "points": 6,
+                "goalsDiff": 3,
+                "group": "Group H",
+                "form": "WW",
+                "status": "same",
+                "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 2,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 4,
+                    "against": 1
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 0
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 1,
+                  "draw": 0,
+                  "lose": 0,
+                  "goals": {
+                    "for": 2,
+                    "against": 1
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 3,
+                "team": {
+                  "id": 496,
+                  "name": "Juventus",
+                  "logo": "https://media.api-sports.io/football/teams/496.png"
+                },
+                "points": 0,
+                "goalsDiff": -2,
+                "group": "Group H",
+                "form": "LL",
+                "status": "same",
+                "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 2,
+                    "against": 4
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              },
+              {
+                "rank": 4,
+                "team": {
+                  "id": 4195,
+                  "name": "Maccabi Haifa",
+                  "logo": "https://media.api-sports.io/football/teams/4195.png"
+                },
+                "points": 0,
+                "goalsDiff": -4,
+                "group": "Group H",
+                "form": "LL",
+                "status": "same",
+                "description": null,
+                "all": {
+                  "played": 2,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 2,
+                  "goals": {
+                    "for": 1,
+                    "against": 5
+                  }
+                },
+                "home": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 1,
+                    "against": 3
+                  }
+                },
+                "away": {
+                  "played": 1,
+                  "win": 0,
+                  "draw": 0,
+                  "lose": 1,
+                  "goals": {
+                    "for": 0,
+                    "against": 2
+                  }
+                },
+                "update": "2022-09-14T00:00:00+00:00"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  }
